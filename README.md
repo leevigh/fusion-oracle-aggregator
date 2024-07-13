@@ -14,7 +14,7 @@
 
 ## Introduction
 
-`Fusion Oracle Aggregator` is an app that fetches price data from Pyth and Switchboard oracles and displays the price averages.
+Fusion Oracle Aggregator is an app that fetches price data from Pyth and Switchboard oracles and displays the price averages.
 
 ## Features
 

@@ -1,7 +1,4 @@
-# Oracle Aggregator
-
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+# Fusion. Oracle Aggregator
 
 ## Table of Contents
 

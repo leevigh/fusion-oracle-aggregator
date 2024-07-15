@@ -33,7 +33,7 @@ To set up your development environment, follow these steps:
 
    ```bash
    git clone https://github.com/leevigh/fusion-oracle-aggregator.git
-   cd oracle-aggregator
+   cd fusion-oracle-aggregator
    ```
 
 2. Install dependencies:
